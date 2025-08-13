@@ -79,9 +79,9 @@ def guess_number():
             print(colored("Введите целое число!", "red"))
             continue
         if guess < number:
-            print("Больше")
+            print("Загаданое число больше")
         elif guess > number:
-            print("Меньше")
+            print("Загаданое число меньше")
         else:
             print(colored(f"Ура, четко! Ты угадал! {emoji.emojize(':tada:', language='alias')}", "green"))
             break
