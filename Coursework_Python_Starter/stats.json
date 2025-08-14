@@ -1,0 +1,27 @@
+[
+    {
+        "correct_answers": 2,
+        "wrong_answers": 1,
+        "final_score": 200
+    },
+    {
+        "total_questions": 2,
+        "correct_answers": 1,
+        "final_score": 100
+    },
+    {
+        "total_questions": 5,
+        "correct_answers": 5,
+        "final_score": 1000
+    },
+    {
+        "total_questions": 5,
+        "correct_answers": 4,
+        "final_score": 500
+    },
+    {
+        "total_questions": 1,
+        "correct_answers": 0,
+        "final_score": 0
+    }
+]
